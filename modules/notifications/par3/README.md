@@ -1,3 +1,3 @@
 # PAR3
 
-Esta carpeta contiene los recursos y módulos relacionados con las notificaciones de PAR3.
+Esta carpeta contiene los archivos de CAYO RIOS JOSERMANDO y MASSI GERONIMO MIGUEL ANGEL.

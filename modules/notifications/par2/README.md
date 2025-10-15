@@ -1,3 +1,3 @@
 # PAR2
 
-Esta carpeta contiene los recursos y módulos relacionados con las notificaciones de PAR2.
+Esta carpeta contiene los archivos de MAMANI CONDARCO THOMAS SEBASTHIAN y AYCA COLQUE MILTON.

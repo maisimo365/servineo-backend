@@ -1,3 +1,3 @@
 # PAR1
 
-Esta carpeta contiene los recursos y módulos relacionados con las notificaciones de PAR1.
+Esta carpeta contiene los archivos de RIVADINEIRA MEDRANO SELWIN y CRUZ MURUCHI JOSE BRAYAN.
