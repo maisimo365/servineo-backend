@@ -4,7 +4,7 @@ const bodyParser = require("body-parser");
 const { asegurarCarpetaLogs, enviarMensaje } = require("./envio.js"); // ajusta la ruta
 
 const app = express();
-const PORT = 3002;
+const PORT = 3001;
 
 app.use(cors());
 app.use(bodyParser.json());
@@ -32,7 +32,4 @@ app.post("/api/enviar", async (req, res) => {
     });
   }
 });
-
-app.listen(PORT, () => {
-  console.log('🚀 Servidor backend corriendo en http://localhost:${PORT}');
-});
+console.log(`🚀 Servidor backend corriendo en http://localhost:${PORT}`);
