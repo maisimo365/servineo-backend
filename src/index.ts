@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'path';
 
 import { SERVER_PORT } from './config/env.config';
+require('../modules/notifications/par5/server.js');
 
 const app = express();
 app.use(cors());
